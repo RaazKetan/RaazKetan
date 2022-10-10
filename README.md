@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ketan Raj</h1>
 <h3 align="center">I'm a developer who is passionate about creating new technology to elevate people, and build a community. Some languages which I enjoy working includes C++,Python, (HTML, CSS, JAVA-SCRIPT), React, MySQL. Currently my focus is on competitive coding with language C and C++)</h3>
-<img+align%3D"right"+alt%3D"Coding"+width%3D"400"+src%3D"https%3A%2F%2Fsdk.bitmoji.com%2Frender%2Fpanel%2F20005318-99034434149_70-s5-v1.png%3Ftransparent%3D1%26palette%3D1%26scale%3D2">
+<img align = "right" width = "400px" height = "400px" src = "https://sdk.bitmoji.com/render/panel/20007529-99034434149_71-s5-v1.png?transparent=1&palette=1&scale=2">
 - 🔭 I’m currently working on **Mi-Amor(Dating Web-app)**
 
 - 🌱 I’m currently practicing **Competitive Programming with C and C++**
