@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ketan Raj</h1>
-<h3 align="center">I'm a developer who is passionate about creating new technology to elevate people, and build a community. Some languages which I enjoy working includes C++,Python, (HTML, CSS, JAVA-SCRIPT), MySQL. Currently my focus is on competitive coding with language C++)</h3>
+<h3 align="center">I'm a developer who is passionate about creating new technology to elevate people and build a community. Some languages which I enjoy working includes C++, Python, (HTML, CSS, JAVA-SCRIPT), React, and MySQL. Currently, my focus is on competitive coding with the language C++)</h3>
 
 - 🔭 I’m currently working on **CodeHut**
 
