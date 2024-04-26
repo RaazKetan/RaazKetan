@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ketan Raj</h1>
 <h3 align="center">I'm a developer who is passionate about creating new technology to elevate people and build a community. Some languages which I enjoy working includes C++, Python, (React, HTML, CSS, JAVA-SCRIPT), and MySQL. Currently, my focus is on competitive coding with the language C++ and development with React. </h3>
 
-- 🔭 I’m currently working on **CodeHut**
+- 🔭 I’m currently working on **New Projects**
 
 - 🌱 I’m currently practicing **Competitive Programming with C++**
-
-- 👯 I’m looking to collaborate on **CodeHut**
 
 - 🤝 I’m looking for help with **React**
 
