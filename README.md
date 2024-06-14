@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ketan Raj</h1>
 <h3 align="center">I'm a dedicated full-stack developer with a strong foundation in Next.js and React for frontend development, and Node.js for backend solutions. My passion lies in creating efficient, scalable applications that deliver exceptional user experiences. With hands-on experience in database management and a commitment to continuous learning, I strive to contribute innovative solutions to the world of web development. Explore my repositories to see how I bring ideas to life through code!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raazketan" alt="raazketan" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/raazketan" target="blank"><img src="https://img.shields.io/twitter/follow/raazketan?logo=twitter&style=for-the-badge" alt="raazketan" /></a> </p>
 
 - 🔭 I’m currently working on **Pet Adoption Center**
