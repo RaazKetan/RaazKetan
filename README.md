@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ketan Raj</h1>
-<h3 align="center">I'm a dedicated full-stack developer with a strong foundation in Next.js and React for frontend development, and Node.js for backend solutions. My passion lies in creating efficient, scalable applications that deliver exceptional user experiences. With hands-on experience in database management and a commitment to continuous learning, I strive to contribute innovative solutions to the world of web development. Explore my repositories to see how I bring ideas to life through code!</h3>
+<h3 align="center">I'm a dedicated full-stack developer with a strong foundation in Next.js and React for frontend development and Node.js for backend solutions. My passion lies in creating efficient, scalable applications that deliver exceptional user experiences. With hands-on experience in database management and a commitment to continuous learning, I strive to contribute innovative solutions to the world of web development. Explore my repositories to see how I bring ideas to life through code!</h3>
 
 <p align="left"> <a href="https://twitter.com/raazketan" target="blank"><img src="https://img.shields.io/twitter/follow/raazketan?logo=twitter&style=for-the-badge" alt="raazketan" /></a> </p>
 
-- 🔭 I’m currently working on **Pet Adoption Center**
+- 🔭 I’m currently working on **PerkPass**
 
 - 🌱 I’m currently practicing **Competitive Programming with C++**
 
-- 👯 I’m looking to collaborate on **Pet Adoption Center**
+- 👯 I’m looking to collaborate on **PerkPass**
 
 - 🤝 I’m looking for help with **AWS**
 
-- 👨‍💻 All of my projects are available at [ketanraj.vercel.app/](ketanraj.vercel.app/)
+- 👨‍💻 All of my projects are available at [ketanraj.vercel.app/](ketanraaz.vercel.app/)
 
 - 📝 I regularly write articles on [https://dev.to/raazketan](https://dev.to/raazketan)
 
@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **21ketanraaz@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PhcvQxIk4Lou5LFsurr0dR-qVLFG1Nsy/view?usp=sharing](https://drive.google.com/file/d/1PhcvQxIk4Lou5LFsurr0dR-qVLFG1Nsy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
