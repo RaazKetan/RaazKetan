@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **AWS**
 
-- 👨‍💻 All of my projects are available at [ketanraj.vercel.app/](ketanraaz.vercel.app/)
-
 - 📝 I regularly write articles on [https://dev.to/raazketan](https://dev.to/raazketan)
 
 - 💬 Ask me about **react, AWS, Next.js**
